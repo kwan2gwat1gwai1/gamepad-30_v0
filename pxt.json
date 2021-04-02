@@ -4,13 +4,12 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*",
+        "microphone": "*"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "gamerpad.cpp",
-        "README.md" 
+        "README.md"
     ],
     "testFiles": [
         "test.ts"
@@ -18,5 +17,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
