@@ -6,8 +6,7 @@
         "radio": "*",
         "microphone": "*"
     },
-    "files": [
-        "main.blocks",
+    "files": [        
         "main.ts",
         "gamerpad.cpp",
         "README.md"
