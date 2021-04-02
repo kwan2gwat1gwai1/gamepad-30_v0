@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "gamePad": "github:dfrobot/pxt-gamepad#v1.1.0"
     },
     "files": [
         "main.blocks",
